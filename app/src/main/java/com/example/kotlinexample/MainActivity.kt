@@ -23,8 +23,9 @@ class MainActivity : AppCompatActivity() {
         val myLambda:(Int)->Unit={s:Int->Log.d("tag","$s")}
         lambda(5,10,myLambda)
         array()
-        Log.d("tag","swathy");
-            Log.d("tag","swathy2");
+        Log.d("tag","swathy")
+            Log.d("tag","swathy2")
+
 
 
 
