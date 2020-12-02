@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
         lambda(5,10,myLambda)
         array()
         Log.d("tag","swathy");
+            Log.d("tag","swathy2");
 
 
 
